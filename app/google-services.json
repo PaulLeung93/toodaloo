@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007723247831",
+    "project_id": "toodaloo-57a64",
+    "storage_bucket": "toodaloo-57a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007723247831:android:f88a491a95bab192dc5892",
+        "android_client_info": {
+          "package_name": "com.myapplication.toodaloo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007723247831-rnjf3t3p1vbb41jjfgf9k8ple4k0nic2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrluIjyS5C9roVFsaBkr2NJYZD695NnFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007723247831-rnjf3t3p1vbb41jjfgf9k8ple4k0nic2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
